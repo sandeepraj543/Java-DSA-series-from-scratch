@@ -21,7 +21,7 @@ public class array_basic {
        */
 
       // initialisation and indexing 
-      int[] arr = new int[4]; // 4 size ka array 0 to 3 
+      int[] arr = new int[4]; // 4 size ka array 0 to 3, new way to initialize an array
       arr[0] = 10;
       arr[1] = 20;
       arr[2] = 130;
