@@ -9,6 +9,5 @@ public class modulus {
         int modulus = (a % b);
         System.out.println(modulus);
 
-    }
-    
+    }    
 }

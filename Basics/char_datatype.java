@@ -15,4 +15,5 @@ public class char_datatype{
         System.out.println(num1);
 
     }
+    
 }

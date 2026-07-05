@@ -21,4 +21,5 @@ public class sum_user_input2{
         System.out.println("Sum of these no: " + sum);
 
     }
+    
 }

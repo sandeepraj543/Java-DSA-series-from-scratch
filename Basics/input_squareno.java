@@ -14,5 +14,5 @@ public class input_squareno{
         System.out.println(square);
         
     }
-
+    
 }

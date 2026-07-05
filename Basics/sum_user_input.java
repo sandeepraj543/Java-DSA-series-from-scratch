@@ -19,5 +19,4 @@ public class sum_user_input{
         System.out.println(sum);
     }
 
-
 }

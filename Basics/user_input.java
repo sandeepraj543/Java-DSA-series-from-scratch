@@ -14,4 +14,5 @@ public class user_input {
         System.out.println(a);        // print area
 
     }
+    
 }

@@ -28,7 +28,8 @@ public class Bodmas {
         //  x++ means phle x print hota hai then +1 se bdhta hai.
         //  ++x means phle +1 se bdhta hai then print hota hai
         int R = ++S ; 
-        System.out.println(S+ " "+R);        
+        System.out.println(S+ " "+R);      
 
     }
+    
 }

@@ -4,7 +4,5 @@ public class area_of_circle {
         double R = 3.8 ;
         double area = 3.1415 * R * R ;
         System.out.println(area);
-
     }
-
 }

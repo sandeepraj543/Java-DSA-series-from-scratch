@@ -16,9 +16,11 @@ public class simple_interest{
         System.out.print(" Enter rate of interest: ");
         r = sc.nextInt();
 
-        si = ( (p * t * r)/100.0 );
+        si = ( (p * t * r)/100 );
 
         System.out.println(" Simple Interest is: " + si);
+
+        System.out.println(" Total amount is: " + (p + si));
 
     }
 }

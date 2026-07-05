@@ -58,12 +58,10 @@ public class asciivalue{
 
         int x2 = 66;   // for character (32) space , no any number show.
         char ch5 = (char)x2;
-        System.out.println(ch5);
-        
+        System.out.println(ch5);       
         
     }
-
-
+    
 }
 
 
