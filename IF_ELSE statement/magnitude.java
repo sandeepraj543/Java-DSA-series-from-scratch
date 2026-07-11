@@ -8,13 +8,13 @@ public class magnitude{
 
         System.out.print("Enter Any +ve or -ve integer which is smaller than 69: ");
         int num = sc.nextInt();
-        int num1 = (-num);
-      
+        int num1 = (-num);      
         
         if (num<0){
             System.out.println("The given number is: " + num);
             System.out.println("magnitude is: " + num1 );
         }
+        
         else if (num>0 && 69>=num){
             System.out.println("The given number is: " + num);
             System.out.println("magnitude is: " + num );

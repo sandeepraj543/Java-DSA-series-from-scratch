@@ -1,3 +1,4 @@
+// write a java program to show profit/loss and profit percentage/loss percentage through user input
 import java.util.Scanner;
 
 public class profit_loss1{
@@ -31,4 +32,5 @@ public class profit_loss1{
         }
 
     }
+    
 }

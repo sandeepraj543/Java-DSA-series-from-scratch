@@ -1,3 +1,4 @@
+// write a java program to find profit or loss and profit percentage or loss percentage using if else statement.
 import java.util.Scanner;
 
 public class profit_loss{
@@ -11,7 +12,7 @@ public class profit_loss{
         System.out.print("Enter selling price (Only int value): ");
         int selling_price = sc.nextInt();
 
-        sc.close() // agar tumse eske baad input nhi lena hai toh sc.close likh skte ho, ye itna important/cumpulsory nhi hota hai.
+        sc.close(); // agar tumse eske baad input nhi lena hai toh sc.close likh skte ho, ye itna important/cumpulsory nhi hota hai.
 
         int profit = (selling_price - cost_price);
         int loss = (cost_price - selling_price);
@@ -37,4 +38,5 @@ public class profit_loss{
         } 
 
     }
+    
 }

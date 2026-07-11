@@ -1,3 +1,4 @@
+// take any double or integer value from user and check whether it is an interger or not using if-else statement.
 import java.util.Scanner;
 
 public class integer_or_not{
