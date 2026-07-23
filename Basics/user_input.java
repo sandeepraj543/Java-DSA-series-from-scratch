@@ -1,7 +1,9 @@
+
 import java.util.Scanner;  // if user input then import
 
 public class user_input {
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in); // for user input then write
 
@@ -10,9 +12,9 @@ public class user_input {
 
         double a = 3.141592 * r * r;  // calculation
 
-        System.out.print("Area of circle is: "); 
+        System.out.print("Area of circle is: ");
         System.out.println(a);        // print area
 
     }
-    
+
 }
