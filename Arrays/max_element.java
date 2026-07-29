@@ -1,4 +1,5 @@
-// write a program to print maximum element in the array and minimum element in the array
+// write a program to print maximum element in the array and minimum element in the array.
+// ye ek leetcode problum v hai.
 
 import java.util.Scanner;
 
